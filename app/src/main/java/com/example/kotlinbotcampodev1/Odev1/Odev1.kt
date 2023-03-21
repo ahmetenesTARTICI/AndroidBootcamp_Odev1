@@ -70,18 +70,4 @@ fun main() {
     val faturaAdresi="x mahallesi x sokak x adlı ev x.kat x.daire"
 
 
-
-
-
-println(sokakAdi)
-
-
-
-
-
-
-
-
-
-
 }
